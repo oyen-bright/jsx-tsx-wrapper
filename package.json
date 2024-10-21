@@ -12,6 +12,10 @@
     "color": "#01233C",
     "theme": "dark"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oyen-bright/jsx-tsx-wrapper"
+  },
   "categories": [
     "Programming Languages",
     "Snippets"

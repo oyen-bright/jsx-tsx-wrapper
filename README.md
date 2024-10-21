@@ -42,7 +42,8 @@ Alternatively, you can use the Command Palette:
 3. Choose the desired wrapping command (e.g., "JSX/TSX Wrapper: Wrap with Div").
 
 ## Screenshots
-![Screenshot of JSX/TSX Wrapper in action](images/screenshot.png)
+![Screenshot of JSX/TSX Wrapper in action](https://raw.githubusercontent.com/oyen-bright/jsx-tsx-wrapper/main/images/screenshot.png)
+
 1. Right-click on JSX/TSX code and select the wrapping command from the context menu.
 2. Select the tag to wrap around the JSX/TSX code.
 
