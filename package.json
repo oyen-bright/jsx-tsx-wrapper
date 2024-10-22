@@ -2,7 +2,7 @@
   "name": "jsx-tsx-wrapper",
   "displayName": "JSX/TSX Wrapper",
   "description": "JSX/TSX Wrapper enables quick refactoring by allowing you to right-click on any HTML element within JSX or TSX files and wrap it with a chosen HTML or custom component. This extension simplifies your workflow by providing a context menu option to easily refactor code, helping you organize and nest components efficiently when working with React or similar frameworks.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.94.2"
   },
